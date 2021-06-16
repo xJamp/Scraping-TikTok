@@ -2,9 +2,9 @@
 
 ## With the module you can:
 1. [search ](#1-search)
-2. [trends](#4-trends)
-3. [user info ](#2-user-info)
-4. [user videos](#3-user-videos)
+2. [trends](#2-trends)
+3. [user info ](#3-user-info)
+4. [user videos](#4-user-videos)
 
 
 - - -
