@@ -1,10 +1,10 @@
 # [Tikotk](https://www.tiktok.com/) Scraping
 
 ## With the module you can:
-1. [search ](#1-search)
-2. [trends](#2-trends)
-3. [user info ](#3-user-info)
-4. [user videos](#4-user-videos)
+1. [Search users](#1-search)
+2. [Get trends](#2-trends)
+3. [Get user info](#3-user-info)
+4. [Get user videos](#4-user-videos)
 
 
 - - -
